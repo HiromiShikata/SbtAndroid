@@ -1,4 +1,8 @@
 language: scala
+addons:
+  apt: 
+    packages:
+      - oracle-java8-installer
 scala:
   - scala 2.11.6
 android:
