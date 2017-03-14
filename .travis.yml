@@ -1,4 +1,4 @@
-language :scala
+language: scala
 scala:
   - scala 2.11.6
 android:
